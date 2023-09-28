@@ -1,6 +1,6 @@
 ## Oi! eu sou o Pedro Henrique
 
-🌱 Atualmente estou estudando TypeScript, React TS e Mysql
+Desenvolvedor Full Stack com foco no backend
 <div align="center">
   <a href="https://github.com/PedroHSdeAlmeida">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHSdeAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,6 @@
   <img align="center" alt="pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="pedro-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="pedro-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
   
 </div>
 
