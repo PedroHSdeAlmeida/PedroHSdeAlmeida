@@ -1,6 +1,6 @@
-## Oi! eu sou o Pedro Henrique
+## Olá! eu sou o Pedro Henrique
 
-Desenvolvedor Full Stack com foco no backend
+Desenvolvedor Full Stack com foco no Backend
 <div align="center">
   <a href="https://github.com/PedroHSdeAlmeida">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHSdeAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
